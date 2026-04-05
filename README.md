@@ -1,7 +1,7 @@
 # Izmeritelnaya-systema
 ## !!Вниманме данная программа предназначенна только для Linux и других Unix подобных систем!!
 
-Для корректной работы программы необходимо установить apache, php(+ модули для работы с postgresql), sysstat, lsb_release, 
+Для корректной работы программы необходимо установить apache(sudo apt install apache2 -y), php(sudo apt install php)(+ модули для работы с postgresql), sysstat(sudo apt install sysstat -y), lsb_release(sudo apt install lsb-release), 
 далее в etc создаете каталог measurements и помещайте туда конфиг ab.conf (/etc/measurements/ab.conf) и впишите туда актуальные данные для бд, 
 затем помеcтите остальные файлы по этому пути /var/www/html.
 
