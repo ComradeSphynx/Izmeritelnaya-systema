@@ -14,3 +14,11 @@ cpu.php - показывает нагрузку процессора (коман
 mem.php - показывает информцию об общей и свободной памяти на накопителе (команда df)
 
 ram.php - показывает информцию об общей и свободной оперативной памяти (команда free)
+
+
+<img width="760" height="545" alt="Screenshot 2026-04-05 at 17-57-02 test" src="https://github.com/user-attachments/assets/4a2a8341-fa09-4389-bcce-2acb2fd8fc80" />
+
+<img width="863" height="550" alt="Screenshot 2026-04-05 at 17-56-47 test" src="https://github.com/user-attachments/assets/8b82d221-655b-4801-a399-4166fc3313bd" />
+
+<img width="799" height="518" alt="Screenshot 2026-04-05 at 17-56-34 test" src="https://github.com/user-attachments/assets/35b07e79-9ef4-42cd-b08a-9dfe8d316ab7" />
+
