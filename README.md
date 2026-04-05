@@ -15,6 +15,10 @@ mem.php - показывает информцию об общей и свобо�
 
 ram.php - показывает информцию об общей и свободной оперативной памяти (команда free)
 
+Для автоматизации показаний рекомендую использовать планировщик crontab
+
+
+
 
 <img width="760" height="545" alt="Screenshot 2026-04-05 at 17-57-02 test" src="https://github.com/user-attachments/assets/4a2a8341-fa09-4389-bcce-2acb2fd8fc80" />
 
